@@ -1,0 +1,45 @@
+html{
+    height:100%;
+  }
+*{
+    margin: auto;
+    padding: auto;
+    box-sizing: border-box;
+}
+body {
+    height: 200px;
+    background-image: url("https://www.bunko.pet/__export/1619211815290/sites/debate/img/2021/04/23/whatsapp_image_2021-04-23_at_12_48_27_pm_crop1619211328052.jpeg_172596871.jpeg");
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position: center center;
+}
+h1{
+    color: red;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+nav{
+    margin-top: 8%;
+    background: whitesmoke;
+    height: 25px;
+    width: 200px;
+    border-bottom:1px solid black;
+    margin-left: 1.5%;
+}
+nav ul li{
+    float: left ;
+    list-style: none;
+    margin: 3px;
+    line-height: 15px;
+}
+.formulario{
+    border-radius: 50px;
+    width:340px;
+    height:340px;
+    background:#e6e6e6;
+    padding:20px 30px;
+    font-family:'Montserrat',sans-serif;
+    position:relative
+}
